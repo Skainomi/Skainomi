@@ -16,5 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skainomi&theme=dark)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Skainomi&theme=dark)
+
+<p>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skainomi&theme=dark"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Skainomi&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skainomi&theme=dark"/>
+</p>
+
