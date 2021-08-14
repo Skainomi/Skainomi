@@ -1,5 +1,5 @@
-<img height="370" src="https://raw.githubusercontent.com/Unthrottled/Unthrottled/main/zero_two.svg" align="right"/><br>
-### Hi there 👋
+<h1>Hi there 👋</h1>
+<img height="300" src="https://raw.githubusercontent.com/Unthrottled/Unthrottled/main/zero_two.svg" align="right"/><br>
 
 <!--
 **Skainomi/Skainomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
