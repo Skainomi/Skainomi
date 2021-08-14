@@ -1,4 +1,4 @@
-<img height="400" src="https://raw.githubusercontent.com/Unthrottled/Unthrottled/main/zero_two.svg" align="right"/>
+<img height="370" src="https://raw.githubusercontent.com/Unthrottled/Unthrottled/main/zero_two.svg" align="right"/><br>
 ### Hi there 👋
 
 <!--
