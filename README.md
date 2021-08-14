@@ -1,3 +1,4 @@
+<img height="400" src="https://raw.githubusercontent.com/Unthrottled/Unthrottled/main/zero_two.svg" align="right"/>
 ### Hi there 👋
 
 <!--
@@ -20,6 +21,6 @@ Here are some ideas to get you started:
 <p>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skainomi&theme=dark"/> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Skainomi&layout=compact&langs_count=8&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skainomi&theme=dark"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skainomi&theme=dark"/> -->
 </p>
 
