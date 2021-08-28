@@ -1,4 +1,5 @@
 <h1>Hi there 👋</h1>
+
 <img height="300" src="https://raw.githubusercontent.com/Unthrottled/Unthrottled/main/zero_two.svg" align="right"/><br>
 
 <!--
@@ -16,8 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: -->
 
-
-
+![Visited](https://komarev.com/ghpvc/?username=Skainomi)
 <p>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skainomi&theme=dark"/> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Skainomi&layout=compact&langs_count=8&theme=dark"/>
