@@ -16,11 +16,16 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: -->
+-------------------------------------------------------------------------------------------------------------------------
+<h3>Other Account : </h3><br>
+<a href="https://www.hackerrank.com/Kainomi" target="_blank"><img height="24em" src="HackerRank_Icon-1000px.png"><h8 align="center" margin-top="50px">Hackerrank</h8></a>
+
 
 ![Visited](https://komarev.com/ghpvc/?username=Skainomi)
 <p>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skainomi&theme=dark"/> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Skainomi&layout=compact&langs_count=8&theme=dark"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skainomi&theme=dark"/> -->
+  
 </p>
 
