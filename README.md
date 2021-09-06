@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: -->
 -------------------------------------------------------------------------------------------------------------------------
-<h3>Other Account : </h3>
+<h3><b>Other Account</b></h3>
 <a href="https://www.hackerrank.com/Kainomi" target="_blank"><img height="24em" src="HackerRank_Icon-1000px.png"></a>
 
-
+-------------------------------------------------------------------------------------------------------------------------
+<h3><b>Programming Language</b></h3>
 <p>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skainomi&theme=dark"/> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Skainomi&layout=compact&langs_count=8&theme=dark"/>
