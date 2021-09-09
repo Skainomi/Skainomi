@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -------------------------------------------------------------------------------------------------------------------------
 <h3><b>Other Account</b></h3>
 <a href="https://www.hackerrank.com/Kainomi" target="_blank"><img height="24em" src="HackerRank_Icon-1000px.png"></a>
+<a href="https://www.sololearn.com/profile/12856697" target="_blank"><img height="24em" src="SlLogo.PNG"></a>
 
 -------------------------------------------------------------------------------------------------------------------------
 <h3><b>Programming Language</b></h3>
