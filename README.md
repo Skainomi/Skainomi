@@ -31,7 +31,9 @@ Here are some ideas to get you started:
   </div>
   
 -------------------------------------------------------------------------------------------------------------------------
-<h3><b>Github Activity</b></h3>
+<div align="center">
+  <h3><b>Github Activity</b></h3>  
+</div>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skainomi&theme=dark"/> -->
   <div align="center">
     <div style="display:flex;">
