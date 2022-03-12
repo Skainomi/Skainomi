@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skainomi&theme=dark"/> -->
   <div align="center">
     <div style="display:flex;">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=Skainomi&theme=dark&background=0d1117&hide_border=true" />
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skainomi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=Skainomi&theme=dark&background=0d1117&hide_border=true" />
     </div>
     <img src="https://activity-graph.herokuapp.com/graph?username=Skainomi&theme=react-dark"/>
   </div>
