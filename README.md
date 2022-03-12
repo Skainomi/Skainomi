@@ -26,9 +26,19 @@ Here are some ideas to get you started:
 <h3><b>Programming Language</b></h3>
 <p>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skainomi&theme=dark"/> -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Skainomi&layout=compact&langs_count=8&theme=dark"/><br>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skainomi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skainomi&theme=dark"/> -->
+  <div align="start">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Skainomi&layout=compact&langs_count=8&theme=dark"/><br>
+  </div>
   
+-------------------------------------------------------------------------------------------------------------------------
+<h3><b>Github Activity</b></h3>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skainomi&theme=dark"/> -->
+  <div align="center">
+    <div style="display:flex;">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=Skainomi&theme=dark&background=0d1117&hide_border=true" />
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skainomi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+    </div>
+    <img src="https://activity-graph.herokuapp.com/graph?username=Skainomi&theme=react-dark"/>
+  </div>
 </p>
 
